@@ -1,3 +1,6 @@
+// TODO: Add grok link
+// Perhaps work with more type examples
+
 #include <iostream>
 
 
