@@ -1,3 +1,7 @@
+// https://x.com/i/grok/share/998HW7k9dm73BM8BZ89tGRMKb
+// Link to Grok's output of an example of advanced C++
+// techniques.
+
 #include <iostream>
 #include <vector>
 #include <memory>
