@@ -1,3 +1,6 @@
+This is outdated. As of 2/20/25 Grok 3 (beta) has been released for free usage and this project is transferred to that.
+
+
 # Curriculum for Learning Modern C++ Techniques with Programming Assignments
 
 ## Week 1: Basics of C++ and Template Metaprogramming
